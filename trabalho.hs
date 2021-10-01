@@ -35,6 +35,12 @@ paredeGrama = [Parede, Grama]
 bomba :: Celula
 bomba = [Presente Bomba, Grama]
 
+patins :: Celula
+patins = [Presente Patins, Grama]
+
+arremesso :: Celula
+arremesso = [Presente Arremesso, Grama]
+
 jogador :: Celula
 jogador = [Grama, Jogador 1]
 
