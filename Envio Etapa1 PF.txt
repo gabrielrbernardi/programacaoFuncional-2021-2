@@ -1,0 +1,3 @@
+Link para o repositório onde está o código: https://github.com/gabrielrbernardi/programacaoFuncional-2021-2/blob/master/trabalho.hs
+
+Link para o vídeo com a explicação: https://web.microsoftstream.com/video/73d443b9-48fc-45c0-aa02-4b50597429bb
