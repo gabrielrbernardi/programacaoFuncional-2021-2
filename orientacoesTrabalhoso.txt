@@ -1,0 +1,6 @@
+Grupo: 
+Antônio Pedro Rodrigues Santos - 11821BCC021
+Gabriel Ribeiro Bernardi - 11821BCC036
+Guilherme Soares Correa - 11821BCC026
+
+https://github.com/gabrielrbernardi/programacaoFuncional-2021-2/blob/master/trabalho.hs
